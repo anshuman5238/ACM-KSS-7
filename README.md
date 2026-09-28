@@ -33,10 +33,9 @@ Welcome to my Resume Repository. This repository contains my latest resume, show
 
 ---
 
-## Connect With Me
+## Connect With MeS
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Email:** [Your Email Address]
+* **Email:** anshuman
 
 ---
 
