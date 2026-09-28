@@ -1,7 +1,7 @@
 # ACM-KSS-7
 # Hey, I'm Anshuman Singh 👋
 
-I'm a first-year Computer Science student at **Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi**, figuring out the world of programming, one bug at a time. 
+I'm a first-year Computer Science student at **Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi**. 
 
 ---
 
