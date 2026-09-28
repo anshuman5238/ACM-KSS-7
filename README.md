@@ -8,14 +8,14 @@ I'm a first-year Computer Science student at **Shaheed Sukhdev College of Busine
 ## 👨‍💻 About Me
 
 * 🎓 B.Sc. (Hons.) Computer Science @ Shaheed Sukhdev College of Business Studies
-* 🌱 Currently in my 1st semester exploring the fundamentals
+* 🌱 Currently in my 1st semester 
 * 🐍 Comfortable with Python and core programming concepts
 * 🗄️ Working with SQL and database operations
-* 🌐 Currently learning HTML, CSS & JavaScript
+* 🌐 Currently learning HTML
 
 ## 🎯 Areas I'm Interested In
 
-* Python & C++
+* Python 
 * AI / Machine Learning
 * Data Science
 * Backend Development
