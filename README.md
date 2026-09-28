@@ -1,42 +1,40 @@
 # ACM-KSS-7
-# Hi, I'm Anshuman Singh 👋
+# Hey, I'm Anshuman Singh 👋
 
-Welcome to my Resume Repository. This repository contains my latest resume, showcasing my academic journey, skills, achievements, leadership experiences, and extracurricular involvement.
-
----
-
-## About Me
-
-🎓 **B.Sc. (Hons.) Computer Science Student at SSCBS, University of Delhi**  
-🏸 **Badminton player who enjoys staying active and playing matches**  
-💻 **Passionate about programming in Python, UI/UX design in Figma, and frontend development**  
-🤝 **Actively involved in college activities, group projects, and student communities**  
-🌱 **Constantly working on improving my technical, analytical, and problem-solving skills**  
+I'm a first-year Computer Science student at **Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi**, figuring out the world of programming, one bug at a time. 
 
 ---
 
-## What You'll Find Here
+## 👨‍💻 About Me
 
-* **Latest Resume (PDF)**
-* **Academic Background:** Coursework in Computer System Architecture, Frontend Development, and Mathematics for Computing
-* **Skills & Competencies:** Python, HTML5, CSS, Figma, and core computer science topics
-* **Projects & Collaboration:** Web reference guides, design layouts, and academic assignments
+* 🎓 B.Sc. (Hons.) Computer Science @ Shaheed Sukhdev College of Business Studies
+* 🌱 Currently in my 1st semester exploring the fundamentals
+* 🐍 Comfortable with Python and core programming concepts
+* 🗄️ Working with SQL and database operations
+* 🌐 Currently learning HTML, CSS & JavaScript
 
----
+## 🎯 Areas I'm Interested In
 
-## Areas of Interest
-
-* Technology & Computing
-* Data & Analytics
-* UI/UX Design & Frontend Development
-* Problem Solving & Continuous Learning
-
----
-
-## Connect With MeS
-
-* **Email:** anshu
+* Python & C++
+* AI / Machine Learning
+* Data Science
+* Backend Development
+* Data Structures & Algorithms
 
 ---
 
-> *"Success is not about being the best. It's about being better than you were yesterday."*
+## 🎧 Beyond Code
+
+When I'm not coding:
+* 🎵 Music
+* 🏸 Badminton
+* 🍥 Anime
+
+---
+
+## 📬 Connect With Me
+
+* **Email:** [anshumansinghbhadouriya12@gmail.com]
+
+
+
