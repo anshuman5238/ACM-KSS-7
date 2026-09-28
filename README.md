@@ -19,7 +19,7 @@ I'm a first-year Computer Science student at **Shaheed Sukhdev College of Busine
 * AI / Machine Learning
 * Data Science
 * Backend Development
-* Data Structures & Algorithms
+
 
 ---
 
