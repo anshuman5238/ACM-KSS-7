@@ -35,7 +35,7 @@ Welcome to my Resume Repository. This repository contains my latest resume, show
 
 ## Connect With MeS
 
-* **Email:** anshuman
+* **Email:** anshu
 
 ---
 
